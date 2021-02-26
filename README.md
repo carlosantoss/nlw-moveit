@@ -32,6 +32,8 @@ Continuamos evoluindo nossa aplicação, aprofundando Context API, e aprendendo 
 ## **5ª Aula**
 Na última aula incrementamos nossa aplicação com algumas features adicionais e fizemos o deploy através da Vercel.
 ![day5](https://user-images.githubusercontent.com/62728109/109312291-a1e20780-7825-11eb-9c20-517ff71fb747.png)
+![day5b](https://user-images.githubusercontent.com/62728109/109313196-b5da3900-7826-11eb-84fe-346b99935c9e.png)
+
 
 ![quem_ministrou](https://user-images.githubusercontent.com/62728109/83679095-35e3b300-a5b5-11ea-940f-dc15b1e3e9bc.png)
  **Quem ministrou as aulas?**
