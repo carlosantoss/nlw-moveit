@@ -15,6 +15,7 @@ Bibliotecas e tecnologias utilizadas:
 
 ## **1ª Aula**
 Conhecemos os conceitos por trás de um front-end SPA, os principais fundamentos do React como componentes, propriedades, estado e ferramentas que funcionam por trás da biblioteca como Webpack e Babel. Além disso, demos início ao desenvolvimento, criando a estrutura básica de componentes da página;
+![day1](https://user-images.githubusercontent.com/62728109/109311799-ffc21f80-7824-11eb-9d85-debcb1faa2e4.png)
 
 ## **2ª Aula**
 Aprendemos o que é o Next.js e quando utilizar no desenvolvimento de aplicações React. Criamos nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios;
