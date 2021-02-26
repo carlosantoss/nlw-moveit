@@ -6,7 +6,7 @@ Ao finalizar cada ciclo e concluir o exercício proposto, o usuário ganha a XP 
 Bibliotecas e tecnologias utilizadas:
 - HTML;
 - CSS;
-- JavaScript;
+- TypeScript;
 - React.JS;
 - Next.JS;
 - Vercel para deploy.
