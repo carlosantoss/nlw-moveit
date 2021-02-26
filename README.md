@@ -11,7 +11,7 @@ Bibliotecas e tecnologias utilizadas:
 - Next.JS;
 - Vercel para deploy.
 
-![moveit](https://user-images.githubusercontent.com/62728109/109309999-c12b6580-7822-11eb-8848-548b8ce421f1.png)
+![moveit](https://user-images.githubusercontent.com/62728109/109311661-d4d7cb80-7824-11eb-9235-aa9a3b8e2d8c.png)
 
 ## **1ª Aula**
 Conhecemos os conceitos por trás de um front-end SPA, os principais fundamentos do React como componentes, propriedades, estado e ferramentas que funcionam por trás da biblioteca como Webpack e Babel. Além disso, demos início ao desenvolvimento, criando a estrutura básica de componentes da página;
